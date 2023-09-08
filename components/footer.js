@@ -4,14 +4,11 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 
  export default function Footer() {
   return (
-    <footer  className="bg-gray-600 text-white py-10">
+    <footer  className="n_footer text-white py-10">
       <div
         id="footer2"
         className="container mx-auto flex justify-between items-center"
       >
-        <div id="footervv" >
-          VisionVault
-        </div>
 
         <div id="footernum" className="text-lg">
           <p>Phone: +1 (123) 456-7890</p>

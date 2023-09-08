@@ -4,9 +4,6 @@ export default function StartPage() {
 
   return (
     <div className="start-page">
-      <video autoPlay loop muted className="background-video">
-        <source src="/images/backgroundVideo.mp4" type="video/mp4" />
-      </video>
       <div className="content">
         <div>
         <h1 style={{
